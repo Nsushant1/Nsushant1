@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Working on Python, Django, and PHP.<br>👯 Open to Django collaborations.<br>🌱 Learning backend development.<br>⚡ Fun fact: Error are like her thoughts and always comes back!<br>📧 Connect with me: nsushaant72@gmail.com<br><br>
+🔭 Working on Python, Django, and PHP.<br>👯 Open to Django collaborations.<br>🌱 Learning backend development.<br>⚡ Fun fact: Error are like her thoughts they always comes back!<br>📧 Connect with me: nsushaant72@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
