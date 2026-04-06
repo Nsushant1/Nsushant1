@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Neupane</h1>
 <h3 align="center">A passionate Flutter Developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Dart Flutter Django Supabase...**
+- 🌱 I’m currently learning **Dart Flutter FastAPI Supabase...**
 
 - 👨‍💻 All of my projects are available at [sushantneupane021.com.np](sushantneupane021.com.np)
 
